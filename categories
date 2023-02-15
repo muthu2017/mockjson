@@ -1,0 +1,61 @@
+{
+	"http_code": 200,
+	"message": "Category List has been fetched successfully",
+	"data": [
+		{
+			"id": 24,
+			"name": "Diabetes Care",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/24_1633611849.jpg"
+		},
+		{
+			"id": 28,
+			"name": "Medical Equipments",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/28_1634055386.jpg"
+		},
+		{
+			"id": 6,
+			"name": "Pharmacy",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/6_1633743565.jpg"
+		},
+		{
+			"id": 9,
+			"name": "Personal Care",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/9_1633743617.jpg"
+		},
+		{
+			"id": 12,
+			"name": "Kids Zone",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/12_1633743654.jpg"
+		},
+		{
+			"id": 1,
+			"name": "Health & Nutrition",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/1_1633743493.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Vitamins & Supplements",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/3_1633743506.jpg"
+		},
+		{
+			"id": 134,
+			"name": "MOM BABY",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/134_1644319402.jpg"
+		},
+		{
+			"id": 26,
+			"name": "Adult Incontinence",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/26_1633862478.jpg"
+		},
+		{
+			"id": 23,
+			"name": "Surgicals",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/23_1633540407.jpg"
+		},
+		{
+			"id": 32,
+			"name": "Covid Related Products",
+			"image": "https://mumbaimeds-prod-assets.s3.amazonaws.com/mumbaimeds/category/32_1634225283.jpg"
+		}
+	]
+}
